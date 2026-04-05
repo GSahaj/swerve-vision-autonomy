@@ -1,0 +1,11 @@
+{
+  "operator": {
+    "driverControllerPort": 0,
+    "driverXAxis": 0,
+    "driverYAxis": 1,
+    "driverZAxis": 3,
+    "deadband": 0.05,
+    "slewRateLimiter": 3.0,
+    "fieldOrientedButton": 1
+  }
+}
